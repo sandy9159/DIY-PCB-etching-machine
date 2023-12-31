@@ -216,20 +216,20 @@ The TIP122 Darlington transistor, known for its reliability and high current cap
 
 In conclusion, this custom PCB design effectively marries the time-tested 555 IC and the TIP122 Darlington transistor to create a reliable and efficient DC motor speed control system. The integration of a potentiometer adds user-friendly adjustability, making it suitable for a wide range of applications requiring precise motor speed modulation.
 
-Discover Excellence with JLCPCB.com for Your PCB Needs!
+Discover Excellence with [JLCPCB](https://jlcpcb.com/?from=MrI) for Your PCB Needs!
 
 Embark on a journey of precision and reliability with JLCPCB.com, your go-to destination for top-notch PCB solutions. At JLCPCB, we bring you the perfect blend of high quality and affordability, ensuring that your PCB needs are met with excellence.
 
-Why Choose JLCPCB?
+Why Choose [JLCPCB](https://jlcpcb.com/?from=MrI)?
 
 Unparalleled Quality: Our commitment to quality is unwavering. Experience PCBs that meet the highest industry standards, crafted with precision and care.
-Affordable Rates: Quality shouldn't break the bank. JLCPCB offers competitive and pocket-friendly rates, making top-tier PCBs accessible to everyone.
+Affordable Rates: Quality shouldn't break the bank. [JLCPCB](https://jlcpcb.com/?from=MrI) offers competitive and pocket-friendly rates, making top-tier PCBs accessible to everyone.
 Versatility: Whatever your project demands, we've got you covered. JLCPCB provides a range of services tailored to your needs, from standard PCBs to advanced offerings.
 Swift Turnaround: Time is of the essence, and we understand that. Benefit from our fast and efficient turnaround times, ensuring your projects stay on track.
 Comprehensive Services: JLCPCB goes beyond PCBs. Explore our additional services, including 3D printing and metal CNC, to bring your ideas to life with unparalleled precision.
-Whether you're a seasoned professional or a passionate hobbyist, JLCPCB.com is your trusted partner for bringing your electronic designs to fruition. Join countless satisfied customers who have chosen JLCPCB for their PCB needs.
+Whether you're a seasoned professional or a passionate hobbyist, [JLCPCB](https://jlcpcb.com/?from=MrI) is your trusted partner for bringing your electronic designs to fruition. Join countless satisfied customers who have chosen JLCPCB for their PCB needs.
 
-Visit JLCPCB.com today and experience the perfect synthesis of quality, affordability, and innovation. Your projects deserve the best – choose JLCPCB for excellence that goes beyond expectations!
+Visit [JLCPCB](https://jlcpcb.com/?from=MrI) today and experience the perfect synthesis of quality, affordability, and innovation. Your projects deserve the best – choose JLCPCB for excellence that goes beyond expectations!
 
 If you want to order the same PCB I have used in this project so you can download PCB files from the link
 
